@@ -12,8 +12,5 @@ This program is based on the Microsoft paper:
 Optimizing File Replication over Limited-Bandwidth Networks using Remote Differential Compression
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2006-157.pdf
 
-and blew tech document:
-
-Remote Differential Compression Algorithm
-https://msdn.microsoft.com/en-us/library/dd357428.aspx
+and the tech document: Remote Differential Compression Algorithm https://msdn.microsoft.com/en-us/library/dd357428.aspx
 
