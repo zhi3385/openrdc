@@ -5,6 +5,8 @@ This program is an alternative of widely used file transferring and synchronizin
 
 * more efficient
 * better performance
+* portability
+* simplicity
 * commecial friendly license, Apache License 2.0
 
 This program is based on the Microsoft paper:
